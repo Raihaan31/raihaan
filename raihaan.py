@@ -1,0 +1,1 @@
+print("this is fundamental of web devolopment")
